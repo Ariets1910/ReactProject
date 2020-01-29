@@ -1,21 +1,22 @@
 import React from 'react';
 import './Profile.css';
+import background from "../images/background3.jpg"
 const Profile = () => {
     return (
         <div className='profile'>
-            <img src="https://kogdakotika.net/media/post_images/title_page_m_ChtRYfI.jpg"/>
-            <div>
+            <img src={background} alt="background"/>
+            <div className="item">
                 ava + description
             </div>
-            <div>
+            <div className="item">
                 My Posts
-                <div>
+                <div className="item">
                     New Post
                 </div>
-                <div>
+                <div className="item">
                     Post 1
                 </div>
-                <div>
+                <div className="item">
                     Post 2
                 </div>
             </div>

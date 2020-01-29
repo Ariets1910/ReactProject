@@ -1,4 +1,9 @@
 .nav {
     grid-area: n;
-    background-color: burlywood;
+    background-color: #00001E;
+    color: #FFFFFF;
+    font-size: 24px;
 }
+    .item {
+       color: greenyellow;
+    }

@@ -1,8 +1,12 @@
 import React from 'react';
 import "./Header.css"
+import logo from "../../src/images/logo.png"
+
 const Header = () => {
-    return (<header className='header'>
-        <img src="https://www.logoground.com/uploads/201526212015-10-262634559pepperspice.jpg" alt=""/>
-    </header>)
+    return (
+        <div className="header">
+            <img src={logo} alt="logo" />
+        </div>
+        )
 };
 export default Header
