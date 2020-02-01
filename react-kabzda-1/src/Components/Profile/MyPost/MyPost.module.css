@@ -1,0 +1,6 @@
+.myPost {
+         grid-area: profile;
+         background-color: #00001E;
+         color: cadetblue;
+         font-size: 24px;
+     }

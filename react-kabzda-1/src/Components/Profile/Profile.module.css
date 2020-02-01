@@ -1,0 +1,6 @@
+.profile {
+         grid-area: profile;
+         background-color: #00001E;
+         color: #FFFFFF;
+         font-size: 24px;
+     }
