@@ -1,0 +1,33 @@
+.game {
+    grid-area: g;
+    background: #1E272C;
+    margin-left: 300px;
+    width: 1200px;
+    height: 800px;
+    text-align: center;
+}
+.game img {
+    width: 600px;
+    height: 480px;
+    margin-left: 10px;
+}
+.game button {
+    width: 240px;
+    height: auto;
+    color: black;
+    font-size: 48px;
+    /*margin: 15px;*/
+    margin-top: 10px;
+}
+.game h2 {
+    font-size: 64px;
+    color: #1E272C
+}
+
+.game h2:hover {
+    color: white;
+}
+.game h1 {
+    font-size: 64px;
+}
+

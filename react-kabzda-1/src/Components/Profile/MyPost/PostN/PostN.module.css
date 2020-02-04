@@ -1,9 +1,39 @@
 .postN {
-         grid-area: profile;
-         background-color: #00001E;
-         color: #FFFFFF;
-         font-size: 24px;
-     }
-.item {
-    color: brown;
+     width: 600px;
+     display: inline-block;
+
+
+ }
+.postN img {
+    height: 120px;
+    width: 120px;
+    border-radius: 30px;
+}
+.postN button {
+    width: 60px;
+    background: #0d1321;
+    border: none;
+    color: #6d82bb;
+    font-weight: bold;
+   margin-top: 0;
+
+}
+.postN textarea {
+    text-align: center;
+    background: #182a50;
+    box-shadow: inset -2px -2px 2px #425575;
+    width: 300px;
+    border: none;
+    color: #fff;
+    padding: 5px;
+    height: 120px;
+    margin-left: 10px;
+    font-size: 24px;
+}
+.row {
+    display: flex;
+    align-items: center;
+}
+.postN button:hover {
+    background: blueviolet;
 }

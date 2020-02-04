@@ -1,5 +1,6 @@
 .nav {
-    grid-area: nav;
+    grid-area: n;
+
     background-color: #00001E;
     color: #FFFFFF;
     font-size: 24px;

@@ -2,28 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b847f5-a87b-4486-8ed6-b345534caa7e" name="Default Changelist" comment="Css for every component">
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Game/Game.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Game/Game.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Algeria.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Angola.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Belarus.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Brazil.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Britain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Chile.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/China.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Cuba.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Denmark.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Egypt.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Finland.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Germany.svg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Greece.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Iceland.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Iran.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Italy_flag.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Kazakhstan.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Libya.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Moldova.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Mongolia.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Morocco.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/North_Korea.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Norway.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Portugal.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Romania.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Screenshot_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/SouthAfrica.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/SouthKorea.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Spain.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Sweden.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Switzerland.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Tunisia.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Vatican.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/Yemen.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/console.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/england.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/france.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/moldova.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/randomFlag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/russia.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/ukraine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/usa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/usa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Nav/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/MyPost.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN/PostN.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -38,27 +88,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Profile/MyPost/PostN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost\PostN" />
-      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost" />
-      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost\Folder" />
-      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\Post" />
-      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost" />
       <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Footer" />
@@ -66,13 +110,36 @@
       <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Nav" />
       <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Header" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost\PostN" />
+      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost" />
+      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\MyPost\Folder" />
+      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components\Profile\Post" />
+      <recent name="E:\MEGA\GitHub\ReactProject\react-kabzda-1\src\Components" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.addCountry.js (1)">
     <configuration name="Header.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Components/Header/Header.jsx" working-dir="$PROJECT_DIR$/src/Components">
+      <method v="2" />
+    </configuration>
+    <configuration name="addCountry.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../FlagGameIdeas/addCountry.js" working-dir="$PROJECT_DIR$/../FlagGameIdeas">
+      <method v="2" />
+    </configuration>
+    <configuration name="addCountry.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/Desktop/addCountry.js" working-dir="$USER_HOME$/Desktop">
+      <method v="2" />
+    </configuration>
+    <configuration name="mathRandom.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$USER_HOME$/Desktop/mathRandom.js" working-dir="$USER_HOME$/Desktop">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/test.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.addCountry.js (1)" />
+        <item itemvalue="Node.js.addCountry.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.mathRandom.js" />
         <item itemvalue="Node.js.Header.jsx" />
       </list>
     </recent_temporary>
@@ -93,7 +160,13 @@
       <workItem from="1580318626666" duration="1525000" />
       <workItem from="1580322622096" duration="630000" />
       <workItem from="1580393172394" duration="246000" />
-      <workItem from="1580564760391" duration="12390000" />
+      <workItem from="1580564760391" duration="26130000" />
+      <workItem from="1580627481579" duration="2310000" />
+      <workItem from="1580638528259" duration="25981000" />
+      <workItem from="1580672334849" duration="4709000" />
+      <workItem from="1580677061576" duration="172000" />
+      <workItem from="1580720865757" duration="14154000" />
+      <workItem from="1580746394317" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="Css for every component">
       <created>1580302234339</created>
@@ -129,6 +202,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Css for every component" />
     <option name="LAST_COMMIT_MESSAGE" value="Css for every component" />
   </component>
@@ -137,14 +211,26 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="446" y="120" key="#ESLint/0.0.1707.920@0.0.1707.920" timestamp="1580574016668" />
-    <state x="309" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580296113994">
+    <state x="569" y="131" key="#addCountry.js" timestamp="1580727950270">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="309" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1580296113994" />
+    <state x="569" y="131" key="#addCountry.js/0.0.1707.920@0.0.1707.920" timestamp="1580727950270" />
+    <state x="309" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580737839146">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="309" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1580737839146" />
     <state x="584" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580574753527">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="584" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1580574753527" />
+    <state x="569" y="131" key="#mathRandom.js" timestamp="1580721821555">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="569" y="131" key="#mathRandom.js/0.0.1707.920@0.0.1707.920" timestamp="1580721821555" />
+    <state x="569" y="131" key="#test.js" timestamp="1580723332153">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="569" y="131" key="#test.js/0.0.1707.920@0.0.1707.920" timestamp="1580723332153" />
     <state x="476" y="0" key="CommitChangelistDialog2" timestamp="1580302535260">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -158,27 +244,79 @@
     </state>
     <state x="497" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580174836541" />
     <state x="621" y="152" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1580228677135" />
-    <state width="1685" height="199" key="GridCell.Tab.0.bottom" timestamp="1580311163654">
+    <state width="1685" height="199" key="GridCell.Tab.0.bottom" timestamp="1580737855930">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="199" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1580311163654" />
-    <state width="1685" height="199" key="GridCell.Tab.0.center" timestamp="1580311163654">
+    <state width="1685" height="199" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1580737855930" />
+    <state width="1685" height="199" key="GridCell.Tab.0.center" timestamp="1580737855930">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="199" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1580311163654" />
-    <state width="1685" height="199" key="GridCell.Tab.0.left" timestamp="1580311163654">
+    <state width="1685" height="199" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1580737855930" />
+    <state width="1685" height="199" key="GridCell.Tab.0.left" timestamp="1580737855930">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="199" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1580311163654" />
-    <state width="1685" height="199" key="GridCell.Tab.0.right" timestamp="1580311163654">
+    <state width="1685" height="199" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1580737855930" />
+    <state width="1685" height="199" key="GridCell.Tab.0.right" timestamp="1580737855930">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1685" height="199" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1580311163654" />
-    <state x="230" y="9" key="SettingsEditor" timestamp="1580565101562">
+    <state width="1685" height="199" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1580737855930" />
+    <state width="1685" height="278" key="GridCell.Tab.1.bottom" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.1.center" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.1.left" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.1.right" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.2.bottom" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.2.bottom/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.2.center" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.2.center/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.2.left" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.2.left/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.2.right" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.2.right/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.3.bottom" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.3.bottom/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.3.center" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.3.center/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.3.left" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.3.left/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state width="1685" height="278" key="GridCell.Tab.3.right" timestamp="1580737855917">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1685" height="278" key="GridCell.Tab.3.right/0.0.1707.920@0.0.1707.920" timestamp="1580737855917" />
+    <state x="230" y="9" key="SettingsEditor" timestamp="1580746650972">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580172241901" />
-    <state x="230" y="9" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1580565101562" />
+    <state x="230" y="9" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1580746650972" />
+    <state x="446" y="191" key="Vcs.Push.Dialog.v2" timestamp="1580577420137">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="191" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1580577420137" />
     <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580171783137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,10 +325,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="0" width="609" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580174862132" />
-    <state x="432" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1580573915980">
+    <state x="510" y="211" key="run.anything.popup" timestamp="1580662203789">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="510" y="211" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1580662203789" />
+    <state x="432" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1580723091077">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580173189209" />
-    <state x="432" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1580573915980" />
+    <state x="432" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1580723091077" />
   </component>
 </project>

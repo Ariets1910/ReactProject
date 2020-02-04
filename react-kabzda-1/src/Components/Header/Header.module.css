@@ -1,7 +1,16 @@
 .header {
-    grid-area: header;
+    grid-area: h;
     background-color: #00001E;
-}
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    }
 .header img {
     width: 120px;
 }
+.header h1 {
+    color: red;
+    text-align: right;
+}
+

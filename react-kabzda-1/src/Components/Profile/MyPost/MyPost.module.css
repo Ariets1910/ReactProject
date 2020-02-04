@@ -1,6 +1,19 @@
-.myPost {
-         grid-area: profile;
-         background-color: #00001E;
-         color: cadetblue;
-         font-size: 24px;
-     }
+.game {
+display: flex;
+    align-items: center;
+}
+.mypost textarea {
+    background: #182a50;
+    }
+.field {
+   border: none;
+    color: #6d82bb;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: auto;
+}
+ .field button {
+     background: white;
+ }
+
+

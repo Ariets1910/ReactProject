@@ -1,19 +1,23 @@
 import React from 'react';
 import classes from './PostN.module.css';
-
-const PostN = () => {
+import avatar from "../../../../images/avatar.jpg"
+const PostN = (props) => {
     return (
       <div className={classes.postN}>
-          <div className={classes.item}>
-              <div className={classes.item}>
-                  Post1
+          <div className={classes.postN}>
+              <div>
+                  <div className={classes.row}>
+                      <img src={avatar} alt="image"/>
+                      <textarea name="" id="postMessage" cols="30" rows="5" >{props.message}</textarea>
+                  </div>
+                  <div>
+                      <button className={classes.postN}>Like!!</button>
+                      <button className={classes.postN}>Dislike!!</button>
+                      <button data-id="1" className="like">{props.likeCount}</button>
+                  </div>
+
               </div>
-              <div className={classes.item}>
-                  Post2
-              </div>
-              <div className={classes.item}>
-                  Post3
-              </div>
+
           </div>
 
           </div>)

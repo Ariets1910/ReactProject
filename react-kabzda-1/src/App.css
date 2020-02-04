@@ -1,14 +1,13 @@
-.app-wrapper {
-  grid-template-areas:
-          "header header"
-          "nav profile"
-          "footer footer";
+.grid {
   display: grid;
-  grid-template-rows: 60px 1fr 100px;
-  grid-template-columns: 2fr 10fr 1fr;
-  /*grid-gap: 10px;*/
-  width: 1fr;
-  margin: 0 auto;
+    grid-template-areas:    "h h h"
+                            "n p g"
+                            "f f f";
+    grid-template-rows: 120px 1fr 250px;
+    grid-template-columns: 2fr 8fr 8fr;
+    margin: 0 auto;
+    background-color: #00001E;
+    /*grid-gap: 10px;*/
 }
 
 

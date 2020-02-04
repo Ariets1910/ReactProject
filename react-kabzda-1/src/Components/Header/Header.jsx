@@ -6,7 +6,9 @@ const Header = () => {
     return (
         <div className={classes.header}>
             <img src={logo} alt="logo" />
+            <h1>Реакт - это просто!</h1>
         </div>
+
     )
 };
 export default Header
